@@ -1,2 +1,2 @@
-# Artificial-Inteligence-Mazhine-Learning-Certificate
+# Artificial-Inteligence-Machine-Learning-Certificate
 Ai &amp; Ml Certificate
